@@ -1,4 +1,5 @@
 🛍️ Virinda Store Annual Report
+<p align="center"> <img src="vrinda.jpeg" width="850"/> </p>
 📊 Project Overview
 Designed a comprehensive and visually engaging annual sales dashboard to evaluate the overall performance of Virinda Store. This project focuses on uncovering key business insights by analyzing sales trends, customer behavior, and product performance over an entire year.
 
